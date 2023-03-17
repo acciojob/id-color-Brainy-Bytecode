@@ -2,7 +2,7 @@
 #yellow { background: yellow;
 		 border-width: 1px;
 		 border-color: green;
-		 border-top-style: solid
+		 border-bottom-style: solid
 }
 
 #red {background: red;
